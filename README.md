@@ -20,7 +20,7 @@
 
 ### Minhas informações aqui no GitHub:
 ![Status](https://github-readme-stats.vercel.app/api?username=objpedro) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&layout=compact)](https://github.com/objpedro/github-readme-stats)
-
+<!--
 ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
@@ -30,3 +30,4 @@
 <p align="center">
 Obrigado e volte sempre 😄
 </p>
+-->
