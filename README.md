@@ -1,8 +1,8 @@
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 ## Olá, meu nome é: Pedro Asevedo
-### Cursando: Análise e desenvolvimento de sistemas. 
-### Estudando:
+#### Cursando: Análise e desenvolvimento de sistemas. 
+#### Estudando:
 
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
