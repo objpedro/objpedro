@@ -19,7 +19,6 @@
 
 ### Minhas informações aqui no GitHub:
 <!-- ![Status](https://github-readme-stats.vercel.app/api?username=objpedro) -->
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&layout=compact)](https://github.com/objpedro/github-readme-stats)
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <!--
