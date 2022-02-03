@@ -21,11 +21,10 @@ Minhas redes sociais:
 <code><img height="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//objpedro/)](https://github.com/objpedro)"></code>
 <code><img height="20" src="https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585987895918&text=&source=&data=&app_absent="></code>
 
-<!--
-<code><img height="20" src="https://img.shields.io/badge/Java-0177B3?style=for-the-badge&logo=java&logoColor=white"></code>
+
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//objpedro/)](https://github.com/objpedro)
-[![Github Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585987895918&text=&source=&data=&app_absent=)
--->
+[![Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585987895918&text=&source=&data=&app_absent=)
+
 
 
 
