@@ -22,7 +22,7 @@ Minhas redes sociais:
 [![Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585987895918&text=&source=&data=&app_absent=)
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=objpedro&show_icons=true&theme=tokuonight&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&layout=compact&langs_count=7&theme=tokuonight"/>  
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&layout=compact&langs_count=7&theme=tokyonight"/>  
 
 ### Minhas informações aqui no GitHub:
 <!-- ![Status](https://github-readme-stats.vercel.app/api?username=objpedro) -->
