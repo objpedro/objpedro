@@ -19,10 +19,13 @@
 
 [![Github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-asevedo-065a61201/)](https://www.linkedin.com/in/pedro-asevedo-065a61201/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//objpedro/)](https://github.com/objpedro)
-[![Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585987895918&text=&source=&data=&app_absent=)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-00FA9A?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://murilo-farias.netlify.app/)](https://api.whatsapp.com/send?phone=5585987895918&text=&source=&data=&app_absent=)<br>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=objpedro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&layout=compact&langs_count=7&theme=radical"/>  
+ <div>
+  <a href="https://github.com/objpedro">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=objpedro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&layout=compact&langs_count=7&theme=radical"/>
+</div>  
 
 
 <!--
