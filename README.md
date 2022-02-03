@@ -7,6 +7,7 @@
 ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Github sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Github java](https://img.shields.io/badge/Java-0177B3?style=for-the-badge&logo=java&logoColor=orange)
 
 ### Minhas redes sociais:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-asevedo-065a61201/)](https://www.linkedin.com/in/pedro-asevedo-065a61201/)
