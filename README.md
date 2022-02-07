@@ -28,7 +28,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&layout=compact&langs_count=7&theme=radical"/>
 </div>  
 -->
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
 <div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unordestino&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=unordestino&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
