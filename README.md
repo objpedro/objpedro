@@ -10,10 +10,10 @@
 -->
 ### Linguagens: 
 
-<code><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img height="25" src="https://img.shields.io/badge/Java-0177B3?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="25" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white"></code>
 
 ### Minhas redes sociais:
 
