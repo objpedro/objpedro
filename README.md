@@ -16,6 +16,8 @@
 <code><img height="25" src="https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="25" src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white"></code>
 
+<code><img height="25" src="https://img.shields.io/badge/Android-B07219?style=for-the-badge&logo=android&logoColor=white"></code>
+
 ### Minhas redes sociais:
 
 [![Github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-asevedo-065a61201/)](https://www.linkedin.com/in/pedro-asevedo-065a61201/)
