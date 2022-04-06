@@ -4,7 +4,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-### Cursando: Análise e desenvolvimento de sistemas. 
+- 💻 Atualmente trabalho como Desenvolvedor Mobile com React Native
+- :mortar_board: Cursando Análise e desenvolvimento de sistemas
+- 😁 Come and get a little closer.
 
 ## Tecnologias, Ferramentas e Linguagens
 
