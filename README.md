@@ -2,7 +2,7 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/pedro-asevedo-065a61201/)
 [![followersGit](https://img.shields.io/github/followers/objpedro?style=social)](https://github.com/objpedro)
-[![Whatsapp](https://img.shields.io/badge/--linkedin?label=Whatsapp&logo=Whatsapp&style=social)](https://api.whatsapp.com/send?phone=5585987895918&text=&source=&data=&app_absent=) <img src="https://komarev.com/ghpvc/?username=pedroasevedo&label=Profile%20views&color=0e75b6&style=social" alt="Pedro Asevedo" />
+[![Whatsapp](https://img.shields.io/badge/--linkedin?label=Whatsapp&logo=Whatsapp&style=social)](https://api.whatsapp.com/send?phone=5585987895918&text=&source=&data=&app_absent=) 
 ![DevMobile](https://img.shields.io/badge/Desenvolvedor-Mobile-orange)
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
