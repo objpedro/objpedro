@@ -19,7 +19,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> 
 
-<!-- Meus Status -->
+## Meus Status
 <div align="left">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=objpedro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
