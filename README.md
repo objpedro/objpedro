@@ -14,7 +14,7 @@
  
 ## Tecnologias, Ferramentas e Linguagens
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
  <img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
