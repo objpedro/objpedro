@@ -3,7 +3,7 @@
 ## Olá, meu nome é: Pedro Asevedo
 ### Cursando: Análise e desenvolvimento de sistemas. 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/pedro-asevedo-065a61201/) [![followersGit](https://img.shields.io/github/followers/objpedro?style=social)](https://github.com/objpedro) <img src="https://komarev.com/ghpvc/?username=pedroasevedo&label=Profile%20views&color=0e75b6&style=social" alt="Pedro Asevedo" /> ![TechLeadMobile](https://img.shields.io/badge/TechLead-Mobile-orange)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/pedro-asevedo-065a61201/) [![followersGit](https://img.shields.io/github/followers/objpedro?style=social)](https://github.com/objpedro) <img src="https://komarev.com/ghpvc/?username=pedroasevedo&label=Profile%20views&color=0e75b6&style=social" alt="Pedro Asevedo" /> ![DevMobile](https://img.shields.io/badge/Desenvolvedor-Mobile-orange)
 
 ### Linguagens: 
 
