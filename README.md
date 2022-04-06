@@ -32,15 +32,3 @@
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=objpedro&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=objpedro&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </div><br>
-
-<!--
-![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
- Quantidade de visitas no meu perfil desde: 20/09/2021 🕵️ <br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/objpedro/count.svg" /></p>
-<p align="center">
-Obrigado e volte sempre 😄
-</p>
--->
