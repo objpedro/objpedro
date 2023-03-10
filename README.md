@@ -10,7 +10,7 @@
 
 - 💻 Trabalho como Desenvolvedor Mobile com React Native
 - :mortar_board: Cursando Análise e desenvolvimento de sistemas
-- 📚 Estudando React Hooks e TypeScript
+<!-- - 📚 Estudando React Hooks e TypeScript -->
 
 <br/>
  
